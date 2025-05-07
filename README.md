@@ -23,7 +23,7 @@ To view this project, clone the repository and open the HTML files in your brows
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shukri-isse/html-css-tutorial.git
+   git clone https://github.com/shukri-isse/html-tutorial-project.git
 2. Open index.html in your preferred web browser.
 
 ### Acknowledgments
